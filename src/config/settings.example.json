@@ -1,0 +1,5 @@
+{
+    "use_proxy": false,
+    "proxy_url": "",
+    "request_timeout_seconds": 10
+}
